@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليل الشوق خذني إلى هواها
+> أريد أن أذوب في سحر عيناها
+> دعني ألامس نيران شفاها
+> وقلبي العاشق لن يعشق سواها
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
