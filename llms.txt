@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/seket-el-hawa/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get a Licensing Quote for Seket El Hawa](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License Abu Sayed's Seket El Hawa](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
